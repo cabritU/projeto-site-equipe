@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a{
+    color: rgb(255, 255, 255);
+    text-decoration:solid;
+    margin-left: 15px;
+
+}
+nav a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 15px;
+
+}
+
+nav a:hover{
+    text-decoration: rgb(247, 242, 242);
+}
